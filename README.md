@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthifact&label=Profile%20views&color=0e75b6&style=flat" alt="arthifact" /> </p> 
 
 
-- Personal website: [https://arthifact.com/](https://arthifact.com/)
+Personal website: [https://arthifact.com/](https://arthifact.com/)
 
-- Arthifact website: [https://arthifact.com/](https://arthifact.com/)
+Arthifact website: [https://arthifact.com/](https://arthifact.com/)
 
-- Email: gialonsoser@miners.utep.edu
+Email: gialonsoser@miners.utep.edu
 
 <h3 align="left">Additional Links:</h3>
 

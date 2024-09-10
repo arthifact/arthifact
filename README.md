@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/b5/b8/2c/b5b82ca931a478f50a94f06ef2f9d211.jpg)](https://github.com/arthifact)
 <h1 align="center"> Hi, I'm arthifact </h1>
-<h3 align="center"> Passionate in 3D graphics, and interactive applications </h3> <br>
+<h3 align="center"> Passionate in 3D graphics, and interactive applications. </h3> <br>
 <img align="right" alt="Coding" width="450" height="275" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHI4dHcxMGp6b3V3YjN0dW92YmY0ZmI2NGdjMHlocnV1djVoYjJtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3TZgJXiwbdbLG/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthifact&label=Profile%20views&color=0e75b6&style=flat" alt="arthifact" /> </p> 

@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/b5/b8/2c/b5b82ca931a478f50a94f06ef2f9d211.jpg)](https://github.com/arthifact)
 <h1 align="center"> Hi, I'm arthifact </h1>
 <h3 align="center"> Passionate in 3D graphics, and interactive applications </h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/l0IyopaSDZuhof8Nq.webp">
+<img align="right" alt="Coding" width="300" src="https://i.giphy.com/l0IyopaSDZuhof8Nq.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthifact&label=Profile%20views&color=0e75b6&style=flat" alt="arthifact" /> </p>
 

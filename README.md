@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm arthifact (Isaac Alonso)</h1>
+<h1 align="center">Hi, I'm arthifact (Isaac Alonso)</h1>
 <h3 align="center">Passionate in 3D graphics, and interactive applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthifact&label=Profile%20views&color=0e75b6&style=flat" alt="arthifact" /> </p>

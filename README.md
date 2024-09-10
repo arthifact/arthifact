@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthifact&label=Profile%20views&color=0e75b6&style=flat" alt="arthifact" /> </p>
 
+- 📫 How to reach me **gialonsoser@miners.utep.edu**
+  
 - 👨‍💻 Personal website [https://arthifact.com/](https://arthifact.com/)
 
 - ⬤ Arthifact website [https://arthifact.com/](https://arthifact.com/)
-
-- 📫 How to reach me **gialonsoser@miners.utep.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

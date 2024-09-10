@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/564x/c6/37/c3/c637c3e17967b99a8f018c785ff31d17.jpg)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/originals/b5/b8/2c/b5b82ca931a478f50a94f06ef2f9d211.jpg)](https://github.com/arthifact)
 <h1 align="center"> Hi, I'm arthifact </h1>
 <h3 align="center"> Passionate in 3D graphics, and interactive applications </h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/l0IyopaSDZuhof8Nq.webp">

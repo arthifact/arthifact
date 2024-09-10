@@ -6,7 +6,7 @@
 
 <h1 align="center"></h1>
 
-<img align="right" alt="Coding" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWs0aXIwOTQwOWJrcm5yenl6bzQyeDd2amJxamRjMDQ3ZXdxbGh0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0O9xj7gNbxhdhOhO/giphy.webp">
+<img align="right" alt="Coding" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHI4dHcxMGp6b3V3YjN0dW92YmY0ZmI2NGdjMHlocnV1djVoYjJtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3TZgJXiwbdbLG/giphy.webp">
 
 <p align="left">
   

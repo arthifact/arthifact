@@ -11,7 +11,7 @@
 
 - Email: gialonsoser@miners.utep.edu
 
-<h3 align="left">connect with me:</h3>
+<h4 align="left">connect with me:</h4>
 <p align="left">
   <a href="https://instagram.com/arthifact" target="_blank">instagram: arthifact</a><br>
   <a href="https://www.youtube.com/channel/UCQdxToiyiHFkREX0fy65wGQ" target="_blank">youTube: arthifact</a><br>

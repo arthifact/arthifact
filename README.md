@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+[![MasterHead](https://i.pinimg.com/564x/d8/90/f0/d890f02a41eada67b1042841a5ef05db.jpg]
 <h1 align="center"> Hi, I'm arthifact </h1>
 <h3 align="center"> Passionate in 3D graphics, and interactive applications </h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/l0IyopaSDZuhof8Nq.webp">

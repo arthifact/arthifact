@@ -18,7 +18,6 @@ Email: gialonsoser@miners.utep.edu
 <p align="left">
   <a href="https://instagram.com/arthifact_" target="_blank">Instagram</a> - <a href="https://www.youtube.com/channel/UCQdxToiyiHFkREX0fy65wGQ" target="_blank">YouTube</a> - <a href="https://linkedin.com/in/gialonsoser" target="_blank">LinkedIn</a>
 </p>
-
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthifact&label=Profile%20views&color=0e75b6&style=flat" alt="arthifact" /> </p> 

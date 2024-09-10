@@ -1,3 +1,9 @@
+<style>
+  body {
+    font-family: "Courier New", Courier, monospace;
+  }
+</style
+  
 <h1 align="center">Hi, I'm arthifact (Isaac Alonso)</h1>
 <h3 align="center">Passionate in 3D graphics, and interactive applications</h3>
 
@@ -15,4 +21,3 @@
   <a href="https://www.youtube.com/c/arthifact" target="_blank">YouTube: arthifact</a><br>
   <a href="https://linkedin.com/in/gialonsoser" target="_blank">LinkedIn: gialonsoser</a>
 </p>
-
